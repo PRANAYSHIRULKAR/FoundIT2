@@ -59,6 +59,14 @@ The system allows users to register and add items through a web application by p
 ## 📊 Results and Discussion
 The system successfully demonstrates the generation and usage of QR codes for item identification. Users can create items, generate QR codes, and simulate lost-and-found scenarios. When scanned, the QR code redirects to a secure interface where the finder can contact the owner. The notification system ensures timely communication, improving the chances of recovery. Compared to traditional lost-and-found methods, this system is faster, more reliable, and user-friendly. Screenshots of the QR generation page, item dashboard, and contact interface can be included here to illustrate functionality. The system performs efficiently for multiple users with minimal delay.
 
+## Live Project Link :  https://regal-cendol-2be6f2.netlify.app/
+
+<img width="1451" height="719" alt="Screenshot 2026-04-09 125511" src="https://github.com/user-attachments/assets/c8459560-6040-4eb6-bb87-6fea40765799" />
+<img width="1549" height="748" alt="Screenshot 2026-04-09 125446" src="https://github.com/user-attachments/assets/eea1b4ee-7290-4428-8a7e-1c2756804c3b" />
+<img width="1535" height="759" alt="Screenshot 2026-04-09 124618" src="https://github.com/user-attachments/assets/6c1576d7-d02a-4141-a695-9146b7079ef3" />
+<img width="1533" height="725" alt="Screenshot 2026-04-09 124556" src="https://github.com/user-attachments/assets/b032e78e-92a5-4c63-92ee-af750701ac26" />
+
+
 ---
 
 ## ⚠️ Limitations
